@@ -6,17 +6,17 @@ Soy un apasionado del desarrollo de software, actualmente cursando el grado de *
 
 ---
 
-### 🛠️ Tecnologías que domino
+### 🛠️ Tecnologías que manejo
 
 **Backend & Scripting:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,java" alt="Backend Skills" />
+</p>
 
 **Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
+</p>
 
 ---
 
@@ -34,4 +34,4 @@ Una plataforma web diseñada para la gestión o visualización de recetas/conten
 * 📚 Profundizando en estructuras de datos y lógica compleja en **Java** y **Python**.
 
 ### 📫 Cómo contactarme
-- **Email:** [Tu correo aquí]
+- **Email:** justinzene@gmail.com

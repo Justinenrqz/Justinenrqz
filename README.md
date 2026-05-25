@@ -1,9 +1,4 @@
-# ¡Hola! Soy Justin 👋
-
-### Estudiante de DAM & Developer en activo
-
-Soy un apasionado del desarrollo de software, actualmente cursando el grado de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y trabajando en el mundo del desarrollo real. Me enfoco en crear soluciones eficientes y escalables, combinando lo aprendido en clase con las mejores prácticas de la industria.
-
+# ¡Hola! Soy Justin
 ---
 
 ### 🛠️ Tecnologías que manejo

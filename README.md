@@ -29,4 +29,5 @@ Una plataforma web diseñada para la gestión o visualización de recetas/conten
 * 📚 Profundizando en estructuras de datos y lógica compleja en **Java** y **Python**.
 
 ### 📫 Cómo contactarme
+![Mi Código QR](image_70f97c.png)
 - **Email:** justinzene@gmail.com

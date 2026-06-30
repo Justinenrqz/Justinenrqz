@@ -1,3 +1,4 @@
+
 # ¡Hola! Soy Justin
 ---
 
@@ -29,5 +30,5 @@ Una plataforma web diseñada para la gestión o visualización de recetas/conten
 * 📚 Profundizando en estructuras de datos y lógica compleja en **Java** y **Python**.
 
 ### 📫 Cómo contactarme
-![Mi Código QR](image_70f97c.png)
+<img width="300" height="300" alt="qr-code-1782831006397" src="https://github.com/user-attachments/assets/af5977e8-79c9-4293-9893-d371aaa002f4" />
 - **Email:** justinzene@gmail.com
